@@ -19,3 +19,9 @@ an easy to use http request library based on RxJava & OkHttp
                     }
                 }, throwable -> fail());
 ```
+
+
+# download:
+```
+implementation("io.github.hotstu.rxfetch:lib:1.0.0")
+```
